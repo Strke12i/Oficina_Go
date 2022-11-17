@@ -17,7 +17,7 @@ Faça uma função que recebe um array de 10 inteiros nela você precisa fazer a
     test := [10]int{0,1,2,3,4,5,6,7,8,9}
 
 ##### 3 - Ler um arquivo json e escrevendo em um txt
-Leia um arquivo json e armazena seus valores em um map. Depois percorra esse map escrevendo em cada linha de
-arquivo txt o seguinte trecho : "Me chama [nome], tenho [idade] e curso [curso]."
+Leia um arquivo json("nomes.json") e armazena seus valores em um map. Depois percorra esse map escrevendo em cada linha de
+arquivo txt o seguinte trecho : "Me chamo [nome], tenho [idade] e curso [curso]."
 
 

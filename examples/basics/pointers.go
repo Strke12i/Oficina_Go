@@ -13,4 +13,14 @@ func main() {
 
 	changePointer(&number)
 	fmt.Println(number)
+
+	val := 10
+	ponteiro := &val
+
+	*ponteiro = 20
+
+	fmt.Println("Val", val);
+	fmt.Println("Ponteiro", ponteiro)
+	fmt.Println("*Ponteiro", *ponteiro)
+
 }

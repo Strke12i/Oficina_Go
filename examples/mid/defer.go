@@ -27,8 +27,9 @@ func d3() {
 }
 
 func main() {
-	d1()
-	d2()
-	d3()
-	fmt.Println()
+	//d1()
+	//d2()
+	//d3()
+	defer fmt.Println("Hello")
+	fmt.Println("World")
 }
