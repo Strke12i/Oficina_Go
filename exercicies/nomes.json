@@ -1,0 +1,12 @@
+{
+  "0" : {
+    "nome": "Felipe",
+    "idade": 20,
+    "curso": "Sistemas de informação"
+  },
+  "1": {
+    "nome": "Samuel",
+    "idade": 22,
+    "curso": "Sistemas de infromação "
+  }
+}
